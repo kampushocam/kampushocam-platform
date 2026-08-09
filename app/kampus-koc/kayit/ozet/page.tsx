@@ -1,4 +1,3 @@
-```tsx
 "use client";
 
 import { useEffect, useState } from "react";
@@ -95,10 +94,7 @@ export default function KayitOzeti() {
     <main className="min-h-screen bg-slate-50">
       <header className="border-b border-slate-200 bg-white">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
-          <a
-            href="/kampus-koc"
-            className="flex items-center gap-3"
-          >
+          <a href="/kampus-koc" className="flex items-center gap-3">
             <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-blue-600 text-xl font-black text-white">
               K
             </div>
@@ -349,4 +345,3 @@ export default function KayitOzeti() {
     </main>
   );
 }
-```
