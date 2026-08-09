@@ -160,7 +160,7 @@ export default function KampusKoc() {
             </div>
 
             <h1 className="max-w-3xl text-5xl font-black leading-[1.05] tracking-tight text-white md:text-6xl">
-              Hedefin belli.
+              YKS Hedefin belli.
               <br />
               <span className="text-blue-500">Planın hazır mı?</span>
             </h1>
